@@ -69,7 +69,7 @@ body {
 
 /* Navbar */
 .header {
-  min-width: 900px;
+  min-width: 1170px;
   background-color: #fffcf4;
   width: 100%;
   padding: 36px 0 8px;
@@ -153,7 +153,7 @@ body {
 
 /* Main */
 .main {
-  min-width: 1100px;
+  min-width: 1170px;
   background-color: #fffcf4;
   padding: 64px 0;
 }
@@ -320,7 +320,7 @@ body {
 
 /* Section Courses */
 .courses {
-  min-width: 1200px;
+  min-width: 1170px;
   margin: 200px 0;
 }
 .courses-title {
@@ -448,7 +448,7 @@ body {
 
 /* Section Quote */
 .author-quote {
-  min-width: 1250px;
+  min-width: 1170px;
   width: 100%;
   background: #2e2100;
   height: 380px;
@@ -512,7 +512,7 @@ body {
 
 /* Section Pricing */
 .pricing {
-  min-width: 1100px;
+  min-width: 1170px;
   margin: 135px 0;
 }
 
@@ -587,7 +587,7 @@ body {
 
 /* Section Review */
 .review {
-  min-width: 1200px;
+  min-width: 1170px;
   background: #fffcf4;
   padding: 96px 0;
 }
@@ -705,7 +705,7 @@ body {
 
 /* Footer */
 .footer {
-  min-width: 1100px;
+  min-width: 1170px;
   background-color: #2e2100;
   padding: 96px 0 28px 0;
 }
